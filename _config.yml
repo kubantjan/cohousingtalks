@@ -1,7 +1,7 @@
 title: Cohousing talks
 description: "platforma pro komunitní, participativní, cohousingové bydlení"
-baseurl: ""
-url: "https://cohousingtalks.cz"
+baseurl: "/cohousingtalks"
+url: "https://kubantjan.github.io"
 
 markdown: kramdown
 permalink: pretty

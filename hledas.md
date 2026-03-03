@@ -4,7 +4,7 @@ title: Hledáš?
 permalink: /hledas/
 ---
 
-![Hledáš komunitu?](/assets/images/hledas-komunitu-1024x683.jpg)
+![Hledáš komunitu?]({{ site.baseurl }}/assets/images/hledas-komunitu-1024x683.jpg)
 
 Cohousingové komunity se čas od času rozrůstají a přijímají nové členy.
 

@@ -4,7 +4,7 @@ title: O platformě
 permalink: /o-platforme/
 ---
 
-![O platformě](/assets/images/o-platforme-1200x800.jpg)
+![O platformě]({{ site.baseurl }}/assets/images/o-platforme-1200x800.jpg)
 
 Každý den pracujeme na tom, aby se komunitní a participativní bydlení stalo **legitimní, dostupnou alternativou k ostatním typům bydlení**.
 

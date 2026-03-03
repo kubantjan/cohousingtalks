@@ -18,10 +18,10 @@ Zjistili jsme, že i když má každá komunita svá specifika, mnoho zkušenost
 ### Fotogalerie
 
 <div class="gallery">
-  <img src="/assets/images/cohousing-talks-1.jpg" alt="Cohousing talks setkání 1">
-  <img src="/assets/images/cohousing-talks-2.jpg" alt="Cohousing talks setkání 2">
-  <img src="/assets/images/cohousing-talks-3.jpg" alt="Cohousing talks setkání 3">
-  <img src="/assets/images/cohousing-talks-4.jpg" alt="Cohousing talks setkání 4">
+  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-1.jpg" alt="Cohousing talks setkání 1">
+  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-2.jpg" alt="Cohousing talks setkání 2">
+  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-3.jpg" alt="Cohousing talks setkání 3">
+  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-4.jpg" alt="Cohousing talks setkání 4">
 </div>
 
 ### V médiích

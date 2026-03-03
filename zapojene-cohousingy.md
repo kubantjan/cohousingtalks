@@ -4,7 +4,7 @@ title: Zapojené cohousingy
 permalink: /zapojene-cohousingy/
 ---
 
-![Zapojené cohousingy](/assets/images/zapojene-1024x675.png)
+![Zapojené cohousingy]({{ site.baseurl }}/assets/images/zapojene-1024x675.png)
 
 ## Aktivní komunity
 

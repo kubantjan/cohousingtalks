@@ -4,7 +4,7 @@ title: Cohousing fest
 permalink: /cohousing-fest/
 ---
 
-![Cohousing fest banner](/assets/images/CT-Fest-banner-event-1200x628.png)
+![Cohousing fest banner]({{ site.baseurl }}/assets/images/CT-Fest-banner-event-1200x628.png)
 
 První ročník festivalu **úspěšně proběhl**! Festival je určen pro všechny, kdo se zajímají o komunitní bydlení, chtějí potkat podobně smýšlející lidi a diskutovat o praktických i teoretických tématech.
 
@@ -23,16 +23,16 @@ První ročník festivalu **úspěšně proběhl**! Festival je určen pro všec
 
 ### Program
 
-![Program Cohousing festu](/assets/images/cohousingfest-program.jpg)
+![Program Cohousing festu]({{ site.baseurl }}/assets/images/cohousingfest-program.jpg)
 
 ### Fotogalerie
 
 <div class="gallery">
-  <img src="/assets/images/cohousingfest-1.jpg" alt="Cohousing fest 1">
-  <img src="/assets/images/cohousingfest-2.jpg" alt="Cohousing fest 2">
-  <img src="/assets/images/cohousingfest-3.jpg" alt="Cohousing fest 3">
-  <img src="/assets/images/cohousingfest-4.jpg" alt="Cohousing fest 4">
-  <img src="/assets/images/cohousingfest-5.jpg" alt="Cohousing fest 5">
-  <img src="/assets/images/cohousingfest-6.jpg" alt="Cohousing fest 6">
-  <img src="/assets/images/cohousingfest-7.jpg" alt="Cohousing fest 7">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-1.jpg" alt="Cohousing fest 1">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-2.jpg" alt="Cohousing fest 2">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-3.jpg" alt="Cohousing fest 3">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-4.jpg" alt="Cohousing fest 4">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-5.jpg" alt="Cohousing fest 5">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-6.jpg" alt="Cohousing fest 6">
+  <img src="{{ site.baseurl }}/assets/images/cohousingfest-7.jpg" alt="Cohousing fest 7">
 </div>

@@ -13,7 +13,7 @@ body_class: home
 
 <section class="intro">
   <div class="content-inner">
-    <img src="/assets/images/kmen-pripitek-1024x768.jpg" alt="Komunitní setkání – přípitek" class="page-image">
+    <img src="{{ site.baseurl }}/assets/images/kmen-pripitek-1024x768.jpg" alt="Komunitní setkání – přípitek" class="page-image">
 
     <p>Cohousing může mít různé podoby – od 8 lidí, kteří si společně pronajímají dům, přes sdílené byty až po větší rezidenční projekty. Všechny tyto komunity spojuje rovnováha mezi mezilidským propojením a individuálním soukromím a autonomií.</p>
 
