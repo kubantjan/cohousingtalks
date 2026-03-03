@@ -322,7 +322,7 @@ div.community-card .no-page {
   aspect-ratio: 2/1;
   border-radius: 12px;
   object-fit: cover;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
 }
 
 .member h3 {
