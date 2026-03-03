@@ -307,9 +307,9 @@ div.community-card .no-page {
 
 /* --- Member medallions --- */
 .members {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
   margin: 1.5rem 0;
 }
 
@@ -318,9 +318,10 @@ div.community-card .no-page {
 }
 
 .member img {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 2/1;
+  border-radius: 12px;
   object-fit: cover;
   margin-bottom: 0.75rem;
 }
@@ -390,12 +391,44 @@ div.community-card .no-page {
 @media (max-width: 768px) {
   body {
     font-size: 16px;
+    line-height: 1.55;
+    overflow-x: hidden;
   }
 
+  /* Header: keep title and hamburger on the same row */
+  .site-branding {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .site-tagline {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  /* Larger hamburger menu, aligned near the title */
   .menu-toggle {
     display: block;
+    padding: 0.5rem;
+    align-self: flex-start;
+    margin-top: 0.25rem;
   }
 
+  .menu-icon {
+    width: 28px;
+    height: 3px;
+  }
+
+  .menu-icon::before,
+  .menu-icon::after {
+    width: 28px;
+    height: 3px;
+  }
+
+  .menu-icon::before { top: -9px; }
+  .menu-icon::after { top: 9px; }
+
+  /* Mobile nav */
   .site-nav {
     display: none;
     width: 100%;
@@ -414,11 +447,13 @@ div.community-card .no-page {
 
   .nav-menu a {
     display: block;
-    padding: 0.5rem 0;
+    padding: 0.6rem 0;
+    font-size: 1.05rem;
   }
 
+  /* Hero */
   .hero {
-    padding: 3rem 1.5rem;
+    padding: 2.5rem 1.5rem;
   }
 
   .hero h1 {
@@ -429,11 +464,46 @@ div.community-card .no-page {
     font-size: 1.1rem;
   }
 
-  .page-content h1 {
-    font-size: 1.7rem;
+  /* Page content – tighter spacing */
+  .page-content {
+    padding: 2rem 0;
   }
 
+  .page-content h1 {
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+  }
+
+  .page-content h2 {
+    margin-top: 1.75rem;
+    margin-bottom: 0.65rem;
+  }
+
+  .page-content h3 {
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .page-content p {
+    margin-bottom: 0.85rem;
+  }
+
+  .intro {
+    padding: 2rem 0;
+  }
+
+  .intro p {
+    font-size: 1rem;
+    margin-bottom: 0.85rem;
+  }
+
+  /* Community cards */
   .community-list {
     grid-template-columns: 1fr;
+  }
+
+  /* Members grid – tighter on mobile */
+  .members {
+    gap: 1.25rem;
   }
 }
