@@ -17,7 +17,7 @@ members:
     bio: "Programátor. Každý den vypije několik litrů černého čaje. Má dobrý přehled o všeobecném dění ve světě, vhodný parťák na politická, ekologická (a jiná) témata. Vegetarián, co vaří skvělá indická jídla a pizzu!"
   - name: Johny
     img: /assets/images/vetev/vetev-johny-1024x512.jpg
-    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti, má „detašovaný pokoj\u201C (byt) v blízké Michli, ale ve Větvi je poměrně často. Je součástí všech komunitních procesů."
+    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti, má \u201Cdetašovaný pokoj\u201D (byt) v blízké Michli, ale ve Větvi je poměrně často.  Je součástí všech komunitních procesů."
   - name: Obr
     img: /assets/images/vetev/Obr_na-web2-1024x512.png
     bio: "Profesně aktuálně programátor. Kromě řešení problémů psaním kódu mě baví mimojiné impro, diskuze o tom, jak by mohl vypadat lepší svět, a můj kocour Zázvor."
@@ -81,7 +81,7 @@ Takto je to zhruba nastavené teď, ale třeba se časem domluvíme na jiném fo
 
 **Vaření, jídlo**
 
-- **Sámoška** – špajz, ze kterého si lze kupovat potraviny (vejce, konzervy, mléko, jogurty, suroviny na vaření…). Jako byste zašli do večerky, jen to je přímo v domě. Na každé potravině je napsaná cena, skrz aplikaci Settle Up si věc koupíš. Zásobování Sámošky provádí kdokoli (jednoduše nakoupí a potraviny "prodá" v Settle Upu entitě Sámoška.)
+- Máme **Sámošku** – špajz, ze kterého si lze kupovat potraviny (vejce, konzervy, mléko, jogurty, suroviny na vaření…). Jako byste zašli do večerky, jen to je přímo v domě. Na každé potravině je napsaná cena, skrz aplikaci Settle Up si věc koupíš. Zásobování Sámošky provádí kdokoli (jednoduše nakoupí a potraviny "prodá" v Settle Upu entitě Sámoška.)
 - **"Koření"** – v režimu koření je cokoli, co není v režimu Sámoška. Typicky je to: ano, koření, ale dál třeba mouka, mrkev, brambory, sůl, olej a další levné potraviny, které je opruz nějak odměřovat nebo mít soukromě.
 - **Soukromé potraviny** – suroviny v koření a sámošce se snažíme držet co nejvíc základní a levné. Každý má pak navíc svou poličku v lednici a špajzu na soukromé jídlo
 - **Vaření pro ostatní** – rádi se společně najíme. Aby to bylo fér, reálná cena jídla se rozpočte jen mezi lidi, kteří jej skutečně jedli (opět skrz Settle Up).
@@ -103,7 +103,7 @@ Neradi se do něčeho nutíme, chceme dělat věci, protože nám dávají smysl
 
 2. **Seberozvoj a inspirace.** Komunita mi pomáhá se rozvíjet, trénovat soft skills (efektivní komunikace, project management:)…) i hard skills (umět opravit a zařídit rozličné věci).
 
-3. **Networking.** V komunitách (a kolem nich) se často pohybují inspirativní, podnikaví a fajn lidi. Komunitní bydlení je ideální pro ty, kdo mají rádi živo kolem sebe. A kromě toho je to dobrodružství, které stojí za to vyzkoušet!
+3. **Networking.** V komunitách (a kolem nich) se často pohybují inspirativní, podnikaví a fajn lidi. Komunitní bydlení je ideální pro ty, kdo mají rádi živo kolem sebe. A kromě toho je to dobrodružství, které stojí za to vyzkoušet! 🙂
 
 ## Chceš se seznámit?
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sdílené domy (První vlašťovka)
+title: Sdílené domy
 permalink: /sdilene-domy/
 ---
 

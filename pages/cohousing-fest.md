@@ -23,13 +23,11 @@ gallery:
 
 První ročník festivalu úspěšně proběhl. Na fotografie z akce se můžete podívat zde:
 
-### Fotogalerie
-
 {% include gallery.html images=page.gallery %}
 
 Jednodenní festival Cohousing Fest pořádáme pro všechny, kdo se o komunitní bydlení zajímají, chtějí se seznámit s podobně smýšlejícími lidmi, otevřít společně různá praktická i teoretická témata týkající se komunitního bydlení a třeba i založit vlastní projekt nebo se k některému přidat.
 
-### Program
+**Program zde:**
 
 ![Program Cohousing festu]({{ site.baseurl }}/assets/images/cohousingfest-program.jpg)
 
