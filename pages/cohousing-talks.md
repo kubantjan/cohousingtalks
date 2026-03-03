@@ -13,21 +13,17 @@ gallery:
     alt: Cohousing talks setkání 4
 ---
 
-Iniciativa vznikla v roce **2022** jako setkání komunit z pražské oblasti. Cílem bylo **strávit jeden víkend sdílením zkušeností**.
+Cohousing Talks vznikly v roce 2022 jako setkání komunit z Prahy a blízkého okolí s cílem věnovat jeden víkend sdílení zkušeností. Jedním ze zásadních zjištění bylo, že ač je každá komunita svým zaměřením a étosem specifická, mnoho zkušeností (ať již ze soužití samotného nebo z komunikace s institucemi) je přenosných. A také to, že různé komunity mají zájem podporovat myšlenku komunitního bydlení obecně i sebe navzájem.
 
-Zjistili jsme, že i když má každá komunita svá specifika, mnoho zkušeností ohledně soužití a komunikace s institucemi je přenositelných.
+Cohousing talks se po úspěšném prvním setkání staly pravidelnou akcí. Jednotlivé komunity se v organizaci a hostování CT střídají, díky čemuž mají setkání proměnlivý charakter a tematiku. Zároveň se snažíme o horizontální strukturu tak, aby se žádná komunita nestala dominantní.
 
-## Jak to funguje
+V rámci setkání Cohousing Talks kromě debat o vnitřních procesech komunit vznikají i veřejné akce (např. Cohousing fest) a plánování dalšího postupu platformy.
 
-- Komunity se střídají v pořadatelství, což přináší rozmanitý charakter a témata
-- Struktura je horizontální – žádná komunita není dominantní
-- Kromě interních diskuzí vznikají i veřejné akce (jako Cohousing fest) a strategické plánování
-- Setkání cílí na členy stávajících komunit, ale připravujeme aktivity i pro veřejnost a zájemce o zakládání komunit
+Cohousing Talks jsou akce určené pro členstvo stávajících komunit. Kladou si ale také za cíl přípravu akcí pro širokou veřejnost a lidi se zájmem o založení vlastní komunity.
 
 ### Fotogalerie
 
 {% include gallery.html images=page.gallery %}
 
-### V médiích
-
-[Komunity nejsou jen pro hipíky. V Praze vznikla cohousingová platforma](https://a2larm.cz/2023/06/komunity-nejsou-jen-pro-hipiky-v-praze-vznikla-cohousingova-platforma/) – A2larm
+Více o prvních Cohousing Talks si přečtete v článku, který jsme sepsali pro web a2larm.cz:
+[Komunity nejsou jen pro hipíky. V Praze vznikla cohousingová platforma – A2larm](https://a2larm.cz/2023/06/komunity-nejsou-jen-pro-hipiky-v-praze-vznikla-cohousingova-platforma/)

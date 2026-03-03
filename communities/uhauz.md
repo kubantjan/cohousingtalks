@@ -13,12 +13,10 @@ gallery:
 
 *Úhonice*
 
-Jsme celkem mladá komunita – vznikli jsme na jaře 2022. Několik členů mělo předtím více než desetiletou zkušenost s komunitním bydlením.
+Jsme celkem mladá komunita, vznikli jsme na jaře 2022. Nicméně někteří naši členové měli s tímto stylem života více než desetileté zkušenosti. Řekla bych, že styl naší komunity je někde mezi městským cohousingem v jedné vile a komunitní ekovesnicí, kde má každý vlastní příbytek. My žijeme v rodinném domě se zahradou na kraji vesnice s názvem Úhonice. V domě nás žije 6 a jedna kočičí dáma, ale máme prostor až pro 8 lidí. Kromě našeho domu pečujeme ještě o skleník, bazén a sami o sebe. Rádi sdílíme společné většinou veganské jídlo, deskovky, filmové a hudební večery.
 
-Obýváme rodinný dům se zahradou na kraji vesnice. Aktuálně nás bydlí 6 lidí a jedna kočka, kapacita je až 8 obyvatel.
+Původně naše komunita vznikla s myšlenkou založení ekovesnice v Pěčkovicích se spolkem Zeměsouzněni. Tato myšlenka žije dál, nicméně již nesouvisí s naší komunitou, ale byla to důležitá součást našich začátků.
 
-Máme společný dům, skleník a bazén. Společně vaříme převážně veganská jídla. Hrajeme deskové hry, pořádáme filmové a hudební večery.
-
-Komunita původně vznikla z plánů na založení ekovesnice v Pěčkovicích s organizací Zeměsouzněni, ale tento koncept se vyvinul nezávisle.
+[facebook](https://www.facebook.com/uhauz)
 
 {% include gallery.html images=page.gallery %}

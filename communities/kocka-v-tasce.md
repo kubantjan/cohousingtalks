@@ -21,14 +21,12 @@ gallery:
 
 *Praha – Žižkov*
 
-Jsme městská komunita žijící v pronajatém domě na pražském Žižkově. Máme společnou kuchyni, obývák, mikro zahradu s kompostem, lavičkou, houpačkou a meruňkou.
-
-Sdílíme nejen prostor a jídlo, ale i péči a ideály – hledáme způsoby, jak měnit město a svět kolem sebe.
-
-Fungujeme už přes deset let. V naší podkrovní „Hvězdárně" pořádáme komorní koncerty. Koordinujeme místní skupinu komunitou podporovaného zemědělství (KPZ) ve spolupráci s ekofarmou.
-
-Naše fungování je založeno na nehierarchii v rozhodování a snaze o každodenní udržitelnost.
-
 [fb.com/kockavtasce](https://www.facebook.com/kockavtasce)
+
+Jsme městská komunita žijící v pronajatém domě na pražském Žižkově. Máme společnou kuchyni, obývák, mikro zahradu s kompostem, lavičkou, houpačkou a meruňkou. Kromě prostoru a jídla sdílíme i péči a ideály, hledáme způsoby, jak měnit město a svět kolem sebe. Existujeme už víc než deset let.
+
+U nás v podkrovní Observatoři pořádáme bytové koncerty a další akce pro spřátelenou veřejnost. Koordinujeme lokální odběrovou skupinu KPZ (komunitou podporované zemědělství), spolupracujeme s ekofarmou manželů Králíčkových.
+
+Experimentujeme s nehierarchií ve fungování a rozhodování, snažíme se o každodenní udržitelnost a chceme tvořit kus světa, ve kterém je pohoda, upřímnost a péče.
 
 {% include gallery.html images=page.gallery %}

@@ -6,13 +6,11 @@ permalink: /o-platforme/
 
 ![O platformě]({{ site.baseurl }}/assets/images/o-platforme-1200x800.jpg)
 
-Každý den pracujeme na tom, aby se komunitní a participativní bydlení stalo **legitimní, dostupnou alternativou k ostatním typům bydlení**.
+Naší snahou a každodenní prací je komunitní (či cohousingové, participativní) bydlení jako plnohodnotná, dostupná alternativa k jiným typům bydlení. Jsme si vědomi toho, že takový způsob života není pro každého, že si žádá určitou míru osobní a časové investice, jistou formu závazku a řadu schopností a dovedností (komunikačních, rozhodovacích atd.). Přesto usilujeme o to, aby byl vzat na vědomí institucemi, realitními kancelářemi, bankami, médii i širokou veřejností. Chceme uvádět na pravou míru stereotypy, podle kterých je komunitní bydlení okrajovou variantou určenou pro hippies a esotericky orientované skupiny, nebo je vnímáno jako dočasné řešení či pouhá úspora peněz bez dalších výhod.
 
-Víme, že tento životní styl vyžaduje osobní investici, časový závazek a specifické dovednosti jako je komunikace a rozhodování.
+Je pro nás důležité podporovat existující a nově vznikající komunity mj.
 
-Chceme bořit stereotypy, které zobrazují komunitní bydlení jako okrajové nebo dočasné. Podporujeme stávající i vznikající komunity prostřednictvím:
-
-- **Vytváření společných fór** pro výměnu zkušeností
-- **Propojování komunit** a zájemců o komunitní bydlení
-- **Organizace osvětových akcí** o komunitním bydlení jako formě „samoorganizace domácího života"
-- **Zjednodušení přístupu k financování** – pozicování komunit jako jednotných subjektů při žádostech o úvěry
+- vytvořením společného fóra pro setkávání a vzájemné sdílení zkušeností
+- usnadněním propojení komunit a lidí se zájmem o komunitní bydlení
+- přípravou akcí za účelem rozšiřování povědomí veřejnosti o komunitním bydlení jako svébytném způsobu sebeorganizace domácnosti
+- zjednodušení pozice komunity při snaze o získání finančních prostředků (např. komunita jako entita, která žádá o půjčku)

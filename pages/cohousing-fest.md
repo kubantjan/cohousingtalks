@@ -21,25 +21,28 @@ gallery:
 
 ![Cohousing fest banner]({{ site.baseurl }}/assets/images/CT-Fest-banner-event-1200x628.png)
 
-První ročník festivalu **úspěšně proběhl**! Festival je určen pro všechny, kdo se zajímají o komunitní bydlení, chtějí potkat podobně smýšlející lidi a diskutovat o praktických i teoretických tématech.
+První ročník festivalu úspěšně proběhl. Na fotografie z akce se můžete podívat zde:
 
-## Cohousing fest 2023
+### Fotogalerie
 
-- **Datum:** sobota 21. října 2023
-- **Místo:** Dobrovolnické centrum Agora 7
-- **Registrační poplatek:** 300 Kč
+{% include gallery.html images=page.gallery %}
 
-### Vystupující a organizátoři
-
-- **Jan Malý Blažek** – výzkumník z participativnibydleni.cz
-- **Eliška Havla Pomyjová** – architektka
-- **Ivana Mertová** – sociální permakultura
-- Zástupci různých projektů komunitního bydlení
+Jednodenní festival Cohousing Fest pořádáme pro všechny, kdo se o komunitní bydlení zajímají, chtějí se seznámit s podobně smýšlejícími lidmi, otevřít společně různá praktická i teoretická témata týkající se komunitního bydlení a třeba i založit vlastní projekt nebo se k některému přidat.
 
 ### Program
 
 ![Program Cohousing festu]({{ site.baseurl }}/assets/images/cohousingfest-program.jpg)
 
-### Fotogalerie
+Účast přislíbili výzkumník Jan Malý Blažek (projekt participativnibydleni.cz), architektka Eliška Havla Pomyjová, Ivana Mertová (sociální permakultura) a řada zástupců z komunitních domů sdružených pod hlavičkou Cohousing Talks, včetně iniciativy Sdílené domy, komunity Kmen v Braníku či bytové scény a komunity Kočka v tašce.
 
-{% include gallery.html images=page.gallery %}
+**KDY:** v sobotu 21.října 2023
+
+**KDE:** Dobrovolnické centrum Agora 7
+
+**registrační poplatek:** 300 Kč
+
+**FB událost:** [https://fb.me/e/4vX9tFt63](https://fb.me/e/4vX9tFt63)
+
+**Přihlašovací formulář:** [https://forms.gle/sh4MPQ7iivfm3aJL8](https://forms.gle/sh4MPQ7iivfm3aJL8)
+
+**Kontakty na koordinátorky:** [email protected], [email protected]

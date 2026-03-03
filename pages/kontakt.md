@@ -4,7 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Máte dotaz nebo nápad? Ozvěte se nám.
+**email:** [info@cohousingtalks.cz](mailto:info@cohousingtalks.cz)
 
-- **E-mail:** [info@cohousingtalks.cz](mailto:info@cohousingtalks.cz)
-- **Facebook:** [Cohousing talks](https://www.facebook.com/cohousingtalks)
+[Facebook](https://www.facebook.com/profile.php?id=61550518208651)
