@@ -230,16 +230,26 @@ img {
 }
 
 .community-card {
+  display: block;
   background: #fff;
   border-radius: 8px;
   padding: 1.25rem 1.5rem;
   border-left: 4px solid #cd2653;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-  transition: box-shadow 0.2s;
+  transition: box-shadow 0.2s, transform 0.2s;
+  text-decoration: none;
+  color: inherit;
 }
 
-.community-card:hover {
+a.community-card:hover {
   box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+div.community-card {
+  border-left-style: dashed;
+  opacity: 0.6;
 }
 
 .community-card h3 {
@@ -247,6 +257,13 @@ img {
   font-weight: 600;
   margin: 0 0 0.25rem;
   color: #000;
+}
+
+div.community-card .no-page {
+  font-size: 0.8rem;
+  color: #999;
+  font-style: italic;
+  margin: 0.25rem 0 0;
 }
 
 .community-card .location {
@@ -286,6 +303,38 @@ img {
 
 .gallery img:hover {
   transform: scale(1.02);
+}
+
+/* --- Member medallions --- */
+.members {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+.member {
+  text-align: center;
+}
+
+.member img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.75rem;
+}
+
+.member h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.member p {
+  font-size: 0.9rem;
+  color: #444;
+  line-height: 1.5;
 }
 
 /* --- Buttons --- */

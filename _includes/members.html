@@ -1,0 +1,9 @@
+<div class="members">
+  {% for m in include.members %}
+  <div class="member">
+    <img src="{{ site.baseurl }}{{ m.img }}" alt="{{ m.name }}">
+    <h3>{{ m.name }}</h3>
+    <p>{{ m.bio }}</p>
+  </div>
+  {% endfor %}
+</div>

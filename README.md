@@ -16,15 +16,80 @@ Poté otevřete http://localhost:4000
 ## Struktura
 
 ```
-├── _config.yml          # Nastavení Jekyll
-├── _layouts/            # HTML šablony
-├── _includes/           # Sdílené komponenty (header, footer)
-├── assets/css/          # Styly
-├── index.md             # Hlavní stránka
-├── o-platforme.md       # O platformě
-├── cohousing-fest.md    # Cohousing fest
-├── cohousing-talks.md   # Cohousing talks
-├── zapojene-cohousingy.md  # Zapojené cohousingy
-├── hledas.md            # Hledáš?
-└── kontakt.md           # Kontakt
+├── _config.yml              # Nastavení Jekyll
+├── _data/
+│   ├── communities.yml      # Seznam všech komunit (jednoduché přidávání!)
+│   └── nav.yml              # Položky navigace
+├── _layouts/                # HTML šablony
+├── _includes/               # Sdílené komponenty (header, footer, gallery)
+├── assets/
+│   ├── css/style.css        # Styly
+│   └── images/              # Obrázky (podsložky podle komunity)
+├── communities/             # Stránky jednotlivých komunit
+│   ├── kmen.md
+│   ├── vetev.md
+│   └── …
+├── pages/                   # Ostatní stránky webu
+│   ├── zapojene-cohousingy.md
+│   ├── cohousing-fest.md
+│   └── …
+└── index.md                 # Hlavní stránka
 ```
+
+## Jak přidat novou komunitu
+
+Stačí **2 kroky** (nebo 3, pokud chcete fotogalerii):
+
+### 1. Přidejte záznam do `_data/communities.yml`
+
+Otevřete soubor `_data/communities.yml` a přidejte nový řádek mezi aktivní komunity:
+
+```yaml
+- name: Název komunity
+  slug: nazev-komunity        # URL-friendly název (bez diakritiky, malá písmena, pomlčky)
+  location: Praha – Čtvrť
+  status: active              # "active" nebo "memorial"
+```
+
+Pokud komunita nemá vlastní stránku (viz krok 2), nastavte `slug: null` – zobrazí se jen jako karta bez odkazu.
+
+**Tím je hotovo!** Komunita se automaticky zobrazí na stránce [Zapojené cohousingy](/zapojene-cohousingy/).
+
+### 2. (Volitelné) Vytvořte stránku komunity
+
+Vytvořte nový soubor ve složce `communities/`, např. `communities/nazev-komunity.md`:
+
+```markdown
+---
+layout: page
+title: Název komunity
+permalink: /nazev-komunity/
+gallery:                                    # volitelné – seznam fotek do galerie
+  - src: /assets/images/nazev-komunity/foto1.jpg
+    alt: Popis fotky 1
+  - src: /assets/images/nazev-komunity/foto2.jpg
+    alt: Popis fotky 2
+---
+
+![Hlavní fotka]({{ site.baseurl }}/assets/images/nazev-komunity/hlavni.jpg)
+
+*Praha – Čtvrť*
+
+Popis komunity...
+
+[Facebook](https://www.facebook.com/vase-komunita)
+
+{% include gallery.html images=page.gallery %}
+```
+
+### 3. (Volitelné) Přidejte obrázky
+
+Vytvořte složku `assets/images/nazev-komunity/` a nahrajte do ní obrázky.
+
+### Shrnutí
+
+| Co chcete udělat | Co je potřeba |
+|---|---|
+| Přidat komunitu jen jako kartu | Přidat řádek do `_data/communities.yml` |
+| Přidat komunitu s vlastní stránkou | + vytvořit `communities/nazev-komunity.md` |
+| Přidat fotogalerii | + nahrát obrázky + přidat `gallery` do frontmatter |

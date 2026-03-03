@@ -1,0 +1,5 @@
+<div class="gallery">
+  {% for img in include.images %}
+  <img src="{{ site.baseurl }}{{ img.src }}" alt="{{ img.alt }}">
+  {% endfor %}
+</div>

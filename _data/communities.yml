@@ -1,0 +1,46 @@
+# Aktivní komunity
+- name: Dům pod Horou
+  slug: dum-pod-horou
+  location: Praha – Velká Chuchle
+  status: active
+
+- name: Kmen
+  slug: kmen
+  location: Praha – Braník
+  status: active
+
+- name: Kočka v tašce
+  slug: kocka-v-tasce
+  location: Praha – Žižkov
+  status: active
+
+- name: První vlašťovka (Sdílené domy)
+  slug: sdilene-domy
+  location: Praha – Břevnov
+  status: active
+
+- name: Větev
+  slug: vetev
+  location: Praha – Krč
+  status: active
+
+- name: Tuchodomeček
+  slug: null
+  location: Tuchoměřice
+  status: active
+
+- name: Úhauz
+  slug: uhauz
+  location: Úhonice
+  status: active
+
+# Vzpomínáme
+- name: Strážní andělé
+  slug: null
+  location: Praha – Žižkov
+  status: memorial
+
+- name: OM house
+  slug: om-house
+  location: Praha – Řeporyje
+  status: memorial

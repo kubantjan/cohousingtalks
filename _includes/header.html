@@ -9,12 +9,9 @@
     </button>
     <nav class="site-nav">
       <ul class="nav-menu">
-        <li><a href="{{ '/o-platforme/' | relative_url }}" {% if page.url == '/o-platforme/' %}class="active"{% endif %}>O platformě</a></li>
-        <li><a href="{{ '/cohousing-fest/' | relative_url }}" {% if page.url == '/cohousing-fest/' %}class="active"{% endif %}>Cohousing fest</a></li>
-        <li><a href="{{ '/cohousing-talks/' | relative_url }}" {% if page.url == '/cohousing-talks/' %}class="active"{% endif %}>Cohousing talks</a></li>
-        <li><a href="{{ '/zapojene-cohousingy/' | relative_url }}" {% if page.url == '/zapojene-cohousingy/' %}class="active"{% endif %}>Zapojené cohousingy</a></li>
-        <li><a href="{{ '/hledas/' | relative_url }}" {% if page.url == '/hledas/' %}class="active"{% endif %}>Hledáš?</a></li>
-        <li><a href="{{ '/kontakt/' | relative_url }}" {% if page.url == '/kontakt/' %}class="active"{% endif %}>Kontakt</a></li>
+        {% for item in site.data.nav %}
+        <li><a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a></li>
+        {% endfor %}
       </ul>
     </nav>
   </div>
