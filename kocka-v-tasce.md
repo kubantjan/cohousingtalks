@@ -2,6 +2,19 @@
 layout: page
 title: Kočka v tašce
 permalink: /kocka-v-tasce/
+gallery:
+  - src: /assets/images/kocka-v-tasce/1000029413-1024x683.jpg
+    alt: Kočka v tašce
+  - src: /assets/images/kocka-v-tasce/1000027880-1024x683.jpg
+    alt: Kočka v tašce
+  - src: /assets/images/kocka-v-tasce/DSC_0042-1024x684.jpg
+    alt: Kočka v tašce
+  - src: /assets/images/kocka-v-tasce/1000027889-1024x683.jpg
+    alt: Kočka v tašce
+  - src: /assets/images/kocka-v-tasce/DSC_0501-1024x684.jpg
+    alt: Kočka v tašce
+  - src: /assets/images/kocka-v-tasce/DSC_0494-1024x683.jpg
+    alt: Kočka v tašce
 ---
 
 ![Kočka v tašce]({{ site.baseurl }}/assets/images/kocka-v-tasce/DSC_0050-1024x559.jpg)
@@ -18,11 +31,4 @@ Naše fungování je založeno na nehierarchii v rozhodování a snaze o každod
 
 [fb.com/kockavtasce](https://www.facebook.com/kockavtasce)
 
-<div class="gallery">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/1000029413-1024x683.jpg" alt="Kočka v tašce">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/1000027880-1024x683.jpg" alt="Kočka v tašce">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/DSC_0042-1024x684.jpg" alt="Kočka v tašce">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/1000027889-1024x683.jpg" alt="Kočka v tašce">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/DSC_0501-1024x684.jpg" alt="Kočka v tašce">
-  <img src="{{ site.baseurl }}/assets/images/kocka-v-tasce/DSC_0494-1024x683.jpg" alt="Kočka v tašce">
-</div>
+{% include gallery.html images=page.gallery %}

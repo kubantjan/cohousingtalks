@@ -2,6 +2,13 @@
 layout: page
 title: Kmen
 permalink: /kmen/
+gallery:
+  - src: /assets/images/kmen/kmen-2.jpg
+    alt: Kmen 2
+  - src: /assets/images/kmen/kmen-3.jpg
+    alt: Kmen 3
+  - src: /assets/images/kmen/kmen-4.png
+    alt: Kmen 4
 ---
 
 ![Kmen]({{ site.baseurl }}/assets/images/kmen/kmen-1.jpg)
@@ -18,8 +25,4 @@ Věříme, že cohousing nabízí blízkost, inspiraci, osobní rozvoj a radost 
 
 [Facebook](https://www.facebook.com/kmencohousing)
 
-<div class="gallery">
-  <img src="{{ site.baseurl }}/assets/images/kmen/kmen-2.jpg" alt="Kmen 2">
-  <img src="{{ site.baseurl }}/assets/images/kmen/kmen-3.jpg" alt="Kmen 3">
-  <img src="{{ site.baseurl }}/assets/images/kmen/kmen-4.png" alt="Kmen 4">
-</div>
+{% include gallery.html images=page.gallery %}

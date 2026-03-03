@@ -2,6 +2,15 @@
 layout: page
 title: Cohousing talks
 permalink: /cohousing-talks/
+gallery:
+  - src: /assets/images/cohousing-talks-1.jpg
+    alt: Cohousing talks setkání 1
+  - src: /assets/images/cohousing-talks-2.jpg
+    alt: Cohousing talks setkání 2
+  - src: /assets/images/cohousing-talks-3.jpg
+    alt: Cohousing talks setkání 3
+  - src: /assets/images/cohousing-talks-4.jpg
+    alt: Cohousing talks setkání 4
 ---
 
 Iniciativa vznikla v roce **2022** jako setkání komunit z pražské oblasti. Cílem bylo **strávit jeden víkend sdílením zkušeností**.
@@ -17,12 +26,7 @@ Zjistili jsme, že i když má každá komunita svá specifika, mnoho zkušenost
 
 ### Fotogalerie
 
-<div class="gallery">
-  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-1.jpg" alt="Cohousing talks setkání 1">
-  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-2.jpg" alt="Cohousing talks setkání 2">
-  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-3.jpg" alt="Cohousing talks setkání 3">
-  <img src="{{ site.baseurl }}/assets/images/cohousing-talks-4.jpg" alt="Cohousing talks setkání 4">
-</div>
+{% include gallery.html images=page.gallery %}
 
 ### V médiích
 
