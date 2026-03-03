@@ -25,10 +25,15 @@ Poté otevřete http://localhost:4000
 ├── assets/
 │   ├── css/style.css        # Styly
 │   └── images/              # Obrázky (podsložky podle komunity)
-├── index.md                 # Hlavní stránka
-├── zapojene-cohousingy.md   # Přehled komunit (generuje se z _data/communities.yml)
-├── kmen.md, vetev.md, …     # Stránky jednotlivých komunit
-└── kontakt.md               # Kontakt
+├── communities/             # Stránky jednotlivých komunit
+│   ├── kmen.md
+│   ├── vetev.md
+│   └── …
+├── pages/                   # Ostatní stránky webu
+│   ├── zapojene-cohousingy.md
+│   ├── cohousing-fest.md
+│   └── …
+└── index.md                 # Hlavní stránka
 ```
 
 ## Jak přidat novou komunitu
@@ -52,7 +57,7 @@ Pokud komunita nemá vlastní stránku (viz krok 2), nastavte `slug: null` – z
 
 ### 2. (Volitelné) Vytvořte stránku komunity
 
-Vytvořte nový soubor v kořenovém adresáři, např. `nazev-komunity.md`:
+Vytvořte nový soubor ve složce `communities/`, např. `communities/nazev-komunity.md`:
 
 ```markdown
 ---
@@ -86,5 +91,5 @@ Vytvořte složku `assets/images/nazev-komunity/` a nahrajte do ní obrázky.
 | Co chcete udělat | Co je potřeba |
 |---|---|
 | Přidat komunitu jen jako kartu | Přidat řádek do `_data/communities.yml` |
-| Přidat komunitu s vlastní stránkou | + vytvořit `nazev-komunity.md` |
+| Přidat komunitu s vlastní stránkou | + vytvořit `communities/nazev-komunity.md` |
 | Přidat fotogalerii | + nahrát obrázky + přidat `gallery` do frontmatter |
