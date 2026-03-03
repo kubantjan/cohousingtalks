@@ -4,6 +4,8 @@ title: O platformě
 permalink: /o-platforme/
 ---
 
+![O platformě](/assets/images/o-platforme-1200x800.jpg)
+
 Každý den pracujeme na tom, aby se komunitní a participativní bydlení stalo **legitimní, dostupnou alternativou k ostatním typům bydlení**.
 
 Víme, že tento životní styl vyžaduje osobní investici, časový závazek a specifické dovednosti jako je komunikace a rozhodování.
