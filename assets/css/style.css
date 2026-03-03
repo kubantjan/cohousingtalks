@@ -247,8 +247,9 @@ a.community-card:hover {
   text-decoration: none;
 }
 
-div.community-card:hover {
-  box-shadow: 0 3px 10px rgba(0,0,0,0.12);
+div.community-card {
+  border-left-style: dashed;
+  opacity: 0.6;
 }
 
 .community-card h3 {
@@ -256,6 +257,13 @@ div.community-card:hover {
   font-weight: 600;
   margin: 0 0 0.25rem;
   color: #000;
+}
+
+div.community-card .no-page {
+  font-size: 0.8rem;
+  color: #999;
+  font-style: italic;
+  margin: 0.25rem 0 0;
 }
 
 .community-card .location {

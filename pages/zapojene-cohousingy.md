@@ -20,6 +20,7 @@ permalink: /zapojene-cohousingy/
 <div class="community-card">
   <h3>{{ c.name }}</h3>
   <p class="location">{{ c.location }}</p>
+  <p class="no-page">bez vlastní stránky</p>
 </div>
 {% endif %}
 {% endfor %}
@@ -39,6 +40,7 @@ permalink: /zapojene-cohousingy/
 <div class="community-card">
   <h3>{{ c.name }}</h3>
   <p class="location">{{ c.location }}</p>
+  <p class="no-page">bez vlastní stránky</p>
 </div>
 {% endif %}
 {% endfor %}
