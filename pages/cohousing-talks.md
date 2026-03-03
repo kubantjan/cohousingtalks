@@ -26,4 +26,4 @@ Cohousing Talks jsou akce určené pro členstvo stávajících komunit. Kladou 
 {% include gallery.html images=page.gallery %}
 
 Více o prvních Cohousing Talks si přečtete v článku, který jsme sepsali pro web a2larm.cz:
-[Komunity nejsou jen pro hipíky. V Praze vznikla cohousingová platforma – A2larm](https://a2larm.cz/2023/06/komunity-nejsou-jen-pro-hipiky-v-praze-vznikla-cohousingova-platforma/)
+[Komunity nejsou jen pro hipíky. V Praze vznikla cohousingová platforma – A2larm](https://a2larm.cz/2022/06/komunity-nejsou-jen-pro-hipiky-v-praze-vznikla-cohousingova-platforma/)
