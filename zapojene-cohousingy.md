@@ -10,40 +10,40 @@ permalink: /zapojene-cohousingy/
 
 <div class="community-list">
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/dum-pod-horou/" class="community-card">
   <h3>Dům pod Horou</h3>
   <p class="location">Praha – Velká Chuchle</p>
-</div>
+</a>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/kmen/" class="community-card">
   <h3>Kmen</h3>
   <p class="location">Praha – Braník</p>
-</div>
+</a>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/kocka-v-tasce/" class="community-card">
   <h3>Kočka v tašce</h3>
   <p class="location">Praha – Žižkov</p>
-</div>
+</a>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/sdilene-domy/" class="community-card">
   <h3>První vlašťovka (Sdílené domy)</h3>
   <p class="location">Praha – Břevnov</p>
-</div>
+</a>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/vetev/" class="community-card">
   <h3>Větev</h3>
   <p class="location">Praha – Krč</p>
-</div>
+</a>
 
 <div class="community-card">
   <h3>Tuchodomeček</h3>
   <p class="location">Tuchoměřice</p>
 </div>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/uhauz/" class="community-card">
   <h3>Úhauz</h3>
   <p class="location">Úhonice</p>
-</div>
+</a>
 
 </div>
 
@@ -56,9 +56,9 @@ permalink: /zapojene-cohousingy/
   <p class="location">Praha – Žižkov</p>
 </div>
 
-<div class="community-card">
+<a href="{{ site.baseurl }}/om-house/" class="community-card">
   <h3>OM house</h3>
   <p class="location">Praha – Řeporyje</p>
-</div>
+</a>
 
 </div>
