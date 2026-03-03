@@ -317,25 +317,21 @@ div.community-card .no-page {
   text-align: center;
 }
 
-.member img {
+.page-content .member img {
   width: 100%;
-  max-width: 500px;
   aspect-ratio: 2/1;
   border-radius: 12px;
   object-fit: cover;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0;
 }
 
-.member h3 {
-  font-size: 1.1rem;
-  font-weight: 700;
+.page-content .member h3 {
+  margin-top: 0.25rem;
   margin-bottom: 0.35rem;
 }
 
-.member p {
-  font-size: 0.9rem;
+.page-content .member p {
   color: #444;
-  line-height: 1.5;
 }
 
 /* --- Buttons --- */
