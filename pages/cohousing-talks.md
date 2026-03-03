@@ -21,8 +21,6 @@ V rámci setkání Cohousing Talks kromě debat o vnitřních procesech komunit 
 
 Cohousing Talks jsou akce určené pro členstvo stávajících komunit. Kladou si ale také za cíl přípravu akcí pro širokou veřejnost a lidi se zájmem o založení vlastní komunity.
 
-### Fotogalerie
-
 {% include gallery.html images=page.gallery %}
 
 Více o prvních Cohousing Talks si přečtete v článku, který jsme sepsali pro web a2larm.cz:
