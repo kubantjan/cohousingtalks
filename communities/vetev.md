@@ -38,38 +38,67 @@ members:
 
 Komunita vzniklá na jaře 2024. Celkem nás je 8. Věkově jsme mezi 27 a 36 lety.
 
+## Aktuálně volné pokoje
+
+- Mikropokojíček 5140 Kč měsíčně (včetně energií a internetu)
+
+## Dům
+
 ![Dům Větve]({{ site.baseurl }}/assets/images/vetev/Vetev-dum-pohled-od-borovice-1024x516.png)
 
-## O domě
+- 2 min pěšky od metra Budějovická
+- Velký obývák (s krbem)
+- Zahrada s ovocnými stromy (jabloně, třešně, meruňka…), vinná réva, maliny, kiwi… skleník a kompost
+- Klubovna v suterénu (z garáže) s gauči, projektorem a tatami
 
-- 2 minuty chůze od metra Budějovická
-- Velký obývák s krbem
-- Zahrada s ovocnými stromy (jabloně, třešně, meruňky), révou, malinami, kiwi, skleníkem a kompostem
-- Klubovna ve sklepě (přestavěná z garáže) s gauči, projektorem a tatami
-
-## Jak fungujeme
-
-- **Kruh** – přibližně každé 3 týdny pro sdílení, diskuzi a prevenci konfliktů
-- **Provozní lístečky** – offline systém pro rozdělování domácích prací
-- **Víkendovka** – cca 2× ročně, s vlastním programem
-- **1on1 setkání** – přibližně každých 6 měsíců, strukturovaný rozhovor o soužití
-
-## Jídlo a vaření
-
-**Sámoška** – mini obchůdek v domě s vejci, konzervami, mlékem, jogurty a ingrediencemi na vaření. Ceny na položkách, nákupy se sledují přes aplikaci Settle Up.
-
-**Režim „Koření"** – základní levné sdílené suroviny (mouka, mrkev, brambory, sůl, olej), které není třeba individuálně měřit.
-
-**Společné vaření** – sdílená jídla s náklady rozdělenými mezi skutečné strávníky přes Settle Up.
-
-## Naše filozofie
-
-Nechceme být pouhými spolubydlícími – chceme spolu trávit čas, zakecat se v kuchyni, inspirovat se navzájem, smát se, posedět u ohně na zahradě…
-
-Peťa pochází z komunity Kmen. Rozhodla se „rozvětvit" a založit další, trochu menší komunitu, která funguje velmi podobně. Udržujeme blízké vazby s komunitou Kmen.
-
-## Kdo jsme
+## O nás
 
 {% include members.html members=page.members %}
 
-**Máte zájem?** Vyplňte [formulář pro zájemce]({{ site.baseurl }}/hledas/) nebo se přidejte do Facebook skupiny „Kamarádi Větve".
+## Proč Větev?
+
+Peťa pochází z komunity Kmen. Rozhodla jsem se „rozvětvit" a založit další, trochu menší komunitu, která by měla fungovat velmi podobně. Větev je pracovní název, ale asi nám zůstane :) S Kmenem bychom rádi udrželi co nejbližší vztah (zatím se docela daří, bydlíme nedaleko, vypomáháme si, zveme se na akce).
+
+## Jak si komunitní bydlení představujeme?
+
+### Komunita
+
+Nechceme být pouhými spolubydlícími – chceme spolu trávit čas, zakecat se v kuchyni, inspirovat se navzájem, smát se, posedět u ohně na zahradě… Aktivně budovat blízké vztahy. Být místem setkávání – pořádat akce (promítání, kytarohraní, zahradní slavnost, bytový koncert…) pro naše kamarády (jednou třeba i pro veřejnost), propojovat lidi. Hledáme někoho, kdo bude ochoten vložit trochu své energie do toho, aby se nám tu dobře žilo, podílet se na chodu.
+
+### Fungování v bodech
+
+**Pravidelné aktivity**
+
+- **Kruh** (cca 1× za 3 týdny) – pro sdílení, otevírání témat a předcházení konfliktům
+- **Provozní lístečky** – offline systém na dělbu úkolů
+- **Víkendovka** (cca 2× do roka) – spolu vyjedem
+- **1on1** (cca 1× za půl roku) – povídání jeden na jednoho
+
+**Vaření, jídlo**
+
+- **Sámoška** – špajz, ze kterého si lze kupovat potraviny
+- **Koření** – cokoli, co není v režimu Sámoška
+- **Soukromé potraviny** – každý má svou poličku
+- **Vaření pro ostatní** – rádi se společně najíme, reálná cena se rozpočte mezi lidi, kteří jej jedli
+
+**Dobrovolnost**
+
+Neradi se do něčeho nutíme, chceme dělat věci, protože nám dávají smysl. K úkolům se hlásíme dobrovolně. Cca jednou měsíčně k nám chodí uklízečka (o náklady se dělíme).
+
+**Aplikace**
+
+Slack, Settle Up
+
+## Proč jít bydlet do komunity?
+
+**Bydlet s přáteli, sdílet** – Komunita vyžaduje energii, ale stojí to za to: bydlet s lidmi, kteří se stanou tvými přáteli.
+
+**Seberozvoj a inspirace** – Komunita mi pomáhá se rozvíjet, trénovat soft skills a hard skills.
+
+**Networking** – V komunitách se pohybují inspirativní, podnikaví a fajn lidi. Je to dobrodružství, které stojí za to vyzkoušet!
+
+## Chceš se seznámit?
+
+Vyplň [formulář pro zájemce]({{ site.baseurl }}/hledas/). Ozveme se zpět.
+
+Napiš nám skrz FB skupinu „Kamarádi Větve". Prosíme o trpělivost, odpověď nám někdy může trvat déle.
