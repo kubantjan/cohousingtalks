@@ -1,0 +1,13 @@
+title: Cohousing talks
+description: "platforma pro komunitní, participativní, cohousingové bydlení"
+baseurl: ""
+url: "https://cohousingtalks.cz"
+
+markdown: kramdown
+permalink: pretty
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
