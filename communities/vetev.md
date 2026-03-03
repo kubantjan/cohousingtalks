@@ -17,7 +17,7 @@ members:
     bio: "Programátor. Každý den vypije několik litrů černého čaje. Má dobrý přehled o všeobecném dění ve světě, vhodný parťák na politická, ekologická (a jiná) témata. Vegetarián, co vaří skvělá indická jídla a pizzu!"
   - name: Johny
     img: /assets/images/vetev/vetev-johny-1024x512.jpg
-    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti, má „detašovaný pokoj" (byt) v blízké Michli, ale ve Větvi je poměrně často. Je součástí všech komunitních procesů."
+    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti, má „detašovaný pokoj\u201C (byt) v blízké Michli, ale ve Větvi je poměrně často. Je součástí všech komunitních procesů."
   - name: Obr
     img: /assets/images/vetev/Obr_na-web2-1024x512.png
     bio: "Profesně aktuálně programátor. Kromě řešení problémů psaním kódu mě baví mimojiné impro, diskuze o tom, jak by mohl vypadat lepší svět, a můj kocour Zázvor."
