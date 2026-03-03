@@ -108,4 +108,4 @@ Neradi se do něčeho nutíme, chceme dělat věci, protože nám dávají smysl
 ## Chceš se seznámit?
 
 - Zajímá tě bydlení s námi (a my zrovna sháníme člena)? Vyplň [formulář]({{ site.baseurl }}/hledas/). Ozveme se zpět.
-- Nehledáš zrovna bydlení, ale chceš nás poznat? Napiš nám skrz FB skupinu Kamarádi Větve (podmínkou je odpovědět na otázky k přijetí do skupiny), pokud budeme chtít i my poznat Tebe, propojíme se. Prosíme o trpělivost, odpověď nám někdy může trvat déle.
+- Nehledáš zrovna bydlení, ale chceš nás poznat? Napiš nám skrz [FB skupinu Kamarádi Větve](https://www.facebook.com/groups/395360096248705/) (podmínkou je odpovědět na otázky k přijetí do skupiny), pokud budeme chtít i my poznat Tebe, propojíme se. Prosíme o trpělivost, odpověď nám někdy může trvat déle.

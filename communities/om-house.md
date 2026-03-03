@@ -29,7 +29,7 @@ V době, kdy píšeme tenhle medailonek (2023), je nás tu v devíti pokojích c
 
 Proč se jmenujeme zrovna ÓM House? To jméno jsme si nechali i při přechodu do takzvaně „nové generace", kdy se během letošního roku obměnilo prakticky celé osazensto domu.
 
-*Óm též Aum, je posvátná slabika známá z Véd. Slabika bývá považována za projev duchovní síly.*
+*Óm též Aum, je posvátná slabika známá z [Véd](https://cs.wikipedia.org/wiki/V%C3%A9dy). Slabika bývá považována za projev duchovní síly.*
 
 *„Slabika óm je vpravdě všechno minulé, přítomné i budoucí i všechno jiné, co přesahuje trojí čas je vpravdě slabika óm."*
 
