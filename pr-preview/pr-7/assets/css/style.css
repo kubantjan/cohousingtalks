@@ -185,6 +185,7 @@ img {
 /* --- Page content --- */
 .page-content {
   padding: 3rem 0;
+  overflow-x: clip;
 }
 
 .page-content h1 {
