@@ -312,6 +312,7 @@ div.community-card .no-page {
   object-fit: cover;
   cursor: pointer;
   transition: transform 0.2s;
+  margin-bottom: 0;
 }
 
 .gallery img:hover {
