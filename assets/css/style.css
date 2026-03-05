@@ -292,8 +292,8 @@ div.community-card .no-page {
 }
 
 .page-content img.featured-image {
-  width: calc(100% + 6rem);
-  max-width: 58rem;
+  width: calc(100% + 12rem);
+  max-width: 80rem;
   margin-left: 50%;
   transform: translateX(-50%);
 }
