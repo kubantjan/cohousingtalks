@@ -1,5 +1,5 @@
 <div class="gallery">
   {% for img in include.images %}
-  <img src="{{ site.baseurl }}{{ img.src }}" alt="{{ img.alt }}">
+  <img src="{{ site.baseurl }}{{ img.src }}" alt="{{ img.alt }}" onclick="openLightbox(this)">
   {% endfor %}
 </div>
