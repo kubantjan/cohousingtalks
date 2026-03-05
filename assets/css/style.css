@@ -188,6 +188,12 @@ img {
   overflow-x: clip;
 }
 
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}
+
 .page-content h1 {
   font-size: 3.2rem;
   font-weight: 800;
