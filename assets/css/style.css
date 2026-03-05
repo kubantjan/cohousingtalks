@@ -293,7 +293,7 @@ div.community-card .no-page {
 }
 
 .page-content img.featured-image {
-  width: 92vw;
+  width: 85vw;
   max-width: none;
   margin-left: 50%;
   transform: translateX(-50%);
