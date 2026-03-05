@@ -292,9 +292,10 @@ div.community-card .no-page {
 }
 
 .page-content img.featured-image {
-  width: 100vw;
-  max-width: none;
-  margin-left: calc(50% - 50vw);
+  width: calc(100% + 20rem);
+  max-width: 90vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
 
 /* --- Gallery --- */
