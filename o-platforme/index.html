@@ -7,9 +7,6 @@
   <meta name="description" content="platforma pro komunitní, participativní, cohousingové bydlení">
   <link rel="icon" type="image/svg+xml" href="/cohousingtalks/assets/images/favicon.svg">
   <link rel="stylesheet" href="/cohousingtalks/assets/css/style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="">
   <header class="site-header">
@@ -47,7 +44,7 @@
     
     <h1>O platformě</h1>
     
-    <p><img src="/cohousingtalks/assets/images/o-platforme-1200x800.jpg" alt="O platformě" /></p>
+    <p><img src="/cohousingtalks/assets/images/o-platforme-1200x800.jpg" alt="O platformě" class="featured-image" /></p>
 
 <p>Naší snahou a každodenní prací je komunitní (či cohousingové, participativní) bydlení jako plnohodnotná, dostupná alternativa k jiným typům bydlení. Jsme si vědomi toho, že takový způsob života není pro každého, že si žádá určitou míru osobní a časové investice, jistou formu závazku a řadu schopností a dovedností (komunikačních, rozhodovacích atd.). Přesto usilujeme o to, aby byl vzat na vědomí institucemi, realitními kancelářemi, bankami, médii i širokou veřejností. Chceme uvádět na pravou míru stereotypy, podle kterých je komunitní bydlení okrajovou variantou určenou pro hippies a esotericky orientované skupiny, nebo je vnímáno jako dočasné řešení či pouhá úspora peněz bez dalších výhod.</p>
 
@@ -71,6 +68,10 @@
   </div>
 </footer>
 
+  <!-- Lightbox overlay -->
+  <div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
+    <img src="" alt="" id="lightbox-img">
+  </div>
   <script>
     // Mobile menu toggle
     document.querySelector('.menu-toggle').addEventListener('click', function() {
@@ -78,6 +79,27 @@
       const expanded = this.getAttribute('aria-expanded') === 'true';
       this.setAttribute('aria-expanded', !expanded);
       nav.classList.toggle('is-open');
+    });
+
+    // Lightbox for gallery images
+    function openLightbox(img) {
+      var overlay = document.getElementById('lightbox');
+      var lightboxImg = document.getElementById('lightbox-img');
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt;
+      overlay.classList.add('is-active');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      var overlay = document.getElementById('lightbox');
+      overlay.classList.remove('is-active');
+      document.body.style.overflow = '';
+    }
+
+    // Close lightbox with Escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeLightbox();
     });
   </script>
 </body>

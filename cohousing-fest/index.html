@@ -7,9 +7,6 @@
   <meta name="description" content="platforma pro komunitní, participativní, cohousingové bydlení">
   <link rel="icon" type="image/svg+xml" href="/cohousingtalks/assets/images/favicon.svg">
   <link rel="stylesheet" href="/cohousingtalks/assets/css/style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="">
   <header class="site-header">
@@ -53,19 +50,19 @@
 
 <div class="gallery">
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-1.jpg" alt="Cohousing fest 1" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-1.jpg" alt="Cohousing fest 1" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-2.jpg" alt="Cohousing fest 2" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-2.jpg" alt="Cohousing fest 2" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-3.jpg" alt="Cohousing fest 3" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-3.jpg" alt="Cohousing fest 3" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-4.jpg" alt="Cohousing fest 4" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-4.jpg" alt="Cohousing fest 4" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-5.jpg" alt="Cohousing fest 5" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-5.jpg" alt="Cohousing fest 5" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-6.jpg" alt="Cohousing fest 6" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-6.jpg" alt="Cohousing fest 6" onclick="openLightbox(this)" />
   
-  <img src="/cohousingtalks/assets/images/cohousingfest-7.jpg" alt="Cohousing fest 7" />
+  <img src="/cohousingtalks/assets/images/cohousingfest-7.jpg" alt="Cohousing fest 7" onclick="openLightbox(this)" />
   
 </div>
 
@@ -100,6 +97,10 @@
   </div>
 </footer>
 
+  <!-- Lightbox overlay -->
+  <div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
+    <img src="" alt="" id="lightbox-img">
+  </div>
   <script>
     // Mobile menu toggle
     document.querySelector('.menu-toggle').addEventListener('click', function() {
@@ -107,6 +108,27 @@
       const expanded = this.getAttribute('aria-expanded') === 'true';
       this.setAttribute('aria-expanded', !expanded);
       nav.classList.toggle('is-open');
+    });
+
+    // Lightbox for gallery images
+    function openLightbox(img) {
+      var overlay = document.getElementById('lightbox');
+      var lightboxImg = document.getElementById('lightbox-img');
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt;
+      overlay.classList.add('is-active');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      var overlay = document.getElementById('lightbox');
+      overlay.classList.remove('is-active');
+      document.body.style.overflow = '';
+    }
+
+    // Close lightbox with Escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeLightbox();
     });
   </script>
 </body>
