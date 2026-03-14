@@ -21,26 +21,18 @@ gallery:
 
 ![Cohousing fest banner]({{ site.baseurl }}/assets/images/CT-Fest-banner-event-1200x628.png)
 
-První ročník festivalu úspěšně proběhl. Na fotografie z akce se můžete podívat zde:
+## První ročník Cohousing Festu úspěšně proběhl!
+
+Jednodenní festival Cohousing Fest proběhl **v sobotu 21. října 2023** v **Dobrovolnickém centru Agora 7**. Festival byl určen pro všechny, kdo se o komunitní bydlení zajímají, chtějí se seznámit s podobně smýšlejícími lidmi, otevřít společně různá praktická i teoretická témata týkající se komunitního bydlení a třeba i založit vlastní projekt nebo se k některému přidat.
+
+Vystoupili výzkumník Jan Malý Blažek (projekt participativnibydleni.cz), architektka Eliška Havla Pomyjová, Ivana Mertová (sociální permakultura) a řada zástupců z komunitních domů sdružených pod hlavičkou Cohousing Talks, včetně iniciativy Sdílené domy, komunity Kmen v Braníku či bytové scény a komunity Kočka v tašce.
+
+### Fotografie z akce
 
 {% include gallery.html images=page.gallery %}
 
-Jednodenní festival Cohousing Fest pořádáme pro všechny, kdo se o komunitní bydlení zajímají, chtějí se seznámit s podobně smýšlejícími lidmi, otevřít společně různá praktická i teoretická témata týkající se komunitního bydlení a třeba i založit vlastní projekt nebo se k některému přidat.
-
-**Program zde:**
+### Program
 
 ![Program Cohousing festu]({{ site.baseurl }}/assets/images/cohousingfest-program.jpg)
 
-Účast přislíbili výzkumník Jan Malý Blažek (projekt participativnibydleni.cz), architektka Eliška Havla Pomyjová, Ivana Mertová (sociální permakultura) a řada zástupců z komunitních domů sdružených pod hlavičkou Cohousing Talks, včetně iniciativy Sdílené domy, komunity Kmen v Braníku či bytové scény a komunity Kočka v tašce.
-
-**KDY:** v sobotu 21.října 2023
-
-**KDE:** Dobrovolnické centrum Agora 7
-
-**registrační poplatek:** 300 Kč
-
-**FB událost:** [https://fb.me/e/4vX9tFt63](https://fb.me/e/4vX9tFt63)
-
-**Přihlašovací formulář:** [https://forms.gle/sh4MPQ7iivfm3aJL8](https://forms.gle/sh4MPQ7iivfm3aJL8)
-
-**Kontakty na koordinátorky:** [email protected], [email protected]
+**Kontakty na koordinátorky:** [tereza@cohousingtalks.cz](mailto:tereza@cohousingtalks.cz), [petra@cohousingtalks.cz](mailto:petra@cohousingtalks.cz)
