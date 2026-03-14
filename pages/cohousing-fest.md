@@ -35,4 +35,4 @@ Vystoupili výzkumník Jan Malý Blažek (projekt participativnibydleni.cz), arc
 
 ![Program Cohousing festu]({{ site.baseurl }}/assets/images/cohousingfest-program.jpg)
 
-**Kontakty na koordinátorky:** [tereza@cohousingtalks.cz](mailto:tereza@cohousingtalks.cz), [petra@cohousingtalks.cz](mailto:petra@cohousingtalks.cz)
+**Kontakty na koordinátorky:** [michaela.birtusova@gmail.com](mailto:michaela.birtusova@gmail.com), [terezie.un@gmail.com](mailto:terezie.un@gmail.com)
