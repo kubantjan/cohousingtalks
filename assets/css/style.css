@@ -427,6 +427,34 @@ div.community-card .no-page {
   color: #cd2653;
 }
 
+/* --- Contact cards --- */
+.contact-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.contact-card {
+  background: #fff;
+  padding: 1.5rem 1.75rem;
+  border-left: 4px solid #cd2653;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.contact-card h3 {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  color: #000;
+}
+
+.contact-card p {
+  margin: 0;
+  font-size: 1rem;
+}
+
 /* --- Responsive --- */
 @media (max-width: 768px) {
   body {
