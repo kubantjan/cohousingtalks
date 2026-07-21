@@ -9,9 +9,6 @@ members:
   - name: Isabella
     img: /assets/images/vetev/vetev-isabella-1024x512.jpg
     bio: "Vyžívám se v organizování propracovaných akcí pro mládež. Pracuji jako programátorka. Hraju na kytaru. Vždy mám nějaký projekt ve kterém něco vytvářím, jestli ho někdy dokončím je jiná otázka. Ráda hraju deskovky a chodím na šifrovačky. Ráda se učím nové věci."
-  - name: Bagu (stěhuje se pryč)
-    img: /assets/images/vetev/Bagu_na-web-1024x512.png
-    bio: "Skautka, hudebnice (housle, kytara, zpěv), doktorka. Miluje přírodu."
   - name: Míra
     img: /assets/images/vetev/Mira_na-web-1024x512.png
     bio: "Programátor. Každý den vypije několik litrů černého čaje. Má dobrý přehled o všeobecném dění ve světě, vhodný parťák na politická, ekologická (a jiná) témata. Vegetarián, co vaří skvělá indická jídla a pizzu!"
@@ -30,6 +27,8 @@ members:
   - name: Zázvor
     img: /assets/images/vetev/Zazvor_na-web-1024x512.png
     bio: "Mňau"
+  - name: Stříbro
+    bio: "Dostudovaný džapanolog s tanečními tendencemi."
 ---
 
 ![Větev]({{ site.baseurl }}/assets/images/vetev/Vetev-na-impru-na-web-1024x589.jpg)
@@ -37,10 +36,6 @@ members:
 *Praha – Krč (Budějovická)*
 
 Komunita vzniklá na jaře 2024. Celkem nás je 8. Věkově jsme mezi 27 a 36 lety.
-
-## Aktuálně volné pokoje
-
-- Mikropokojíček 5140 Kč měsíčně (včetně energií a internetu)
 
 ## Dům
 
