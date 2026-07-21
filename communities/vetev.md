@@ -9,15 +9,12 @@ members:
   - name: Isabella
     img: /assets/images/vetev/vetev-isabella-1024x512.jpg
     bio: "Vyžívám se v organizování propracovaných akcí pro mládež. Pracuji jako programátorka. Hraju na kytaru. Vždy mám nějaký projekt ve kterém něco vytvářím, jestli ho někdy dokončím je jiná otázka. Ráda hraju deskovky a chodím na šifrovačky. Ráda se učím nové věci."
-  - name: Bagu (stěhuje se pryč)
-    img: /assets/images/vetev/Bagu_na-web-1024x512.png
-    bio: "Skautka, hudebnice (housle, kytara, zpěv), doktorka. Miluje přírodu."
   - name: Míra
     img: /assets/images/vetev/Mira_na-web-1024x512.png
     bio: "Programátor. Každý den vypije několik litrů černého čaje. Má dobrý přehled o všeobecném dění ve světě, vhodný parťák na politická, ekologická (a jiná) témata. Vegetarián, co vaří skvělá indická jídla a pizzu!"
   - name: Johny
     img: /assets/images/vetev/vetev-johny-1024x512.jpg
-    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti, má \u201Cdetašovaný pokoj\u201D (byt) v blízké Michli, ale ve Větvi je poměrně často.  Je součástí všech komunitních procesů."
+    bio: "Rád organizuje hry a larpy. Nenapravitelný bastlič a kutil. Když se rozvodní Botič, nafoukne loď a jde ho splout. Miluje epično a příběhy. Hraje na kytaru, má 3D tiskárnu. Trochu skaut. Partner Peti."
   - name: Obr
     img: /assets/images/vetev/Obr_na-web2-1024x512.png
     bio: "Profesně aktuálně programátor. Kromě řešení problémů psaním kódu mě baví mimojiné impro, diskuze o tom, jak by mohl vypadat lepší svět, a můj kocour Zázvor."
@@ -30,6 +27,8 @@ members:
   - name: Zázvor
     img: /assets/images/vetev/Zazvor_na-web-1024x512.png
     bio: "Mňau"
+  - name: Stříbro
+    bio: "Dostudovaný džapanolog s tanečními tendencemi."
 ---
 
 ![Větev]({{ site.baseurl }}/assets/images/vetev/Vetev-na-impru-na-web-1024x589.jpg)
@@ -37,10 +36,6 @@ members:
 *Praha – Krč (Budějovická)*
 
 Komunita vzniklá na jaře 2024. Celkem nás je 8. Věkově jsme mezi 27 a 36 lety.
-
-## Aktuálně volné pokoje
-
-- Mikropokojíček 5140 Kč měsíčně (včetně energií a internetu)
 
 ## Dům
 
@@ -108,4 +103,3 @@ Neradi se do něčeho nutíme, chceme dělat věci, protože nám dávají smysl
 ## Chceš se seznámit?
 
 - Zajímá tě bydlení s námi (a my zrovna sháníme člena)? Vyplň [formulář]({{ site.baseurl }}/hledas/). Ozveme se zpět.
-- Nehledáš zrovna bydlení, ale chceš nás poznat? Napiš nám skrz [FB skupinu Kamarádi Větve](https://www.facebook.com/groups/395360096248705/) (podmínkou je odpovědět na otázky k přijetí do skupiny), pokud budeme chtít i my poznat Tebe, propojíme se. Prosíme o trpělivost, odpověď nám někdy může trvat déle.
